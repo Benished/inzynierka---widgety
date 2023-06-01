@@ -89,10 +89,11 @@ p {
 /* Title Image */
 
 .title-image {
-  width: 60%;
+  transform: scale(1.2);
+  width: auto;
   position: absolute;
   right: 10%;
-  bottom: 5%;
+  bottom: 30%;
 }
 
 /* Features Section */
